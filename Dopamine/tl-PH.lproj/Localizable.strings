@@ -1,0 +1,125 @@
+"Bootstrapping" = "Pagsisimula ng Bootstrapping";
+
+"Button_Cancel" = "Kanselahin";
+
+"Button_Hide_Jailbreak" = "Itago ang Jailbreak";
+
+"Button_Hide_Logs_Title" = "Itago ang Mga Logs";
+
+"Button_Jailbreak_Title" = "Jailbreak";
+
+"Button_Remove_Jailbreak" = "Alisin ang Jailbreak";
+
+"Button_Set_Root_Password" = "Itakda ang Root Password";
+
+"Button_Show_Logs_Title" = "Ipakita ang Mga Logs";
+
+"Button_Unhide_Jailbreak" = "Ibalik ang Jailbreak";
+
+"Button_Update" = "I-update";
+
+"Button_Update_Available" = "Mayroong Update";
+
+"Bypassing PAC" = "Bypassing PAC";
+
+"Bypassing PPL" = "Bypassing PPL";
+
+"Changelog_Unavailable_Text" = "Hindi Magagamit ang Changelog";
+
+"Context_Menu_Copy_To_Clipboard" = "Kopyahin sa clipboard";
+
+"Credits_Button_License" = "Lisensya";
+
+"Credits_Button_Source_Code" = "Source Code";
+
+"Credits_Footer_Dopamine_Version %@\nOS:%@" = "Dopamine version %@\n%@";
+
+"Credits_Header_Special_Thanks" = "Espesyal na Pasasalamat:";
+
+"Credits_Made_By" = "Ginawa ni opa334, évelyne";
+
+"Credits_Made_By_Subheadline" = "UI ni sourcelocation\nLogo at icon ni xerus";
+
+"Finalizing Bootstrap" = "Pagsasapatos ng Bootstrap";
+
+"Gaining r/w" = "Pagkamit ng r/w";
+
+"Hint_Hide_Jailbreak" = "Ang \"Itago ang Jailbreak\" ay pansamantalang tatanggal ng mga file na may kaugnayan sa jailbreak hanggang sa susunod na jailbreak";
+
+"Initializing Environment" = "Pagpapatupad ng Environment";
+
+"Initializing System Hook" = "Pagpapatupad ng System Hook";
+
+"Jailbreak_Done" = "Tapos na!";
+
+"Launching kexploitd" = "Inilulunsad ang kexploitd";
+
+"Launching oobPCI" = "Inilulunsad ang oobPCI";
+
+"Loading Basebin Trustcache" = "Loading Basebin Trustcache";
+
+"Menu_Credits_Title" = "Pasasalamat";
+
+"Menu_Settings_Title" = "Mga Setting";
+
+"Menu_Reboot_Userspace_Title" = "I-reboot ang Userspace";
+
+"Menu_Restart_SpringBoard_Title" = "I-restart ang SpringBoard";
+
+"Settings_iDownload" = "iDownload";
+
+"Settings_Tweak_Injection" = "Tweak Injection";
+
+"Settings_Verbose_Logs" = "Verbose Logs";
+
+"Patchfinding" = "Patchfinding";
+
+"Rebuilding TrustCache" = "Pagpapatayo muli ng TrustCache";
+
+"Refreshing Icon Cache" = "Refreshing Icon Cache";
+
+"Settings_Footer_Device_Bootstrapped" = "Ang device ay bootstrapped";
+
+"Settings_Footer_Device_Not_Bootstrapped" = "Ang device ay hindi bootstrapped";
+
+"Starting jailbreakd" = "Pagsisimula ng jailbreakd";
+
+"Starting Launch Daemons" = "Pagsisimula ng Launch Daemons";
+
+"Status_Title_Jailbreaking" = "Jailbreaking";
+
+"Status_Title_Jailbroken" = "Jailbroken";
+
+"Status_Title_Select_Package_Managers" = "Pumili ng Package Manager(s)";
+
+"Status_Title_Unsuccessful" = "Hindi Matagumpay";
+
+"Success_Rate %@%% (%lld/%lld)" = "Rate ng Tagumpay: %@%% (%lld/%lld)";
+
+"Title_Changelog" = "Mga Pagbabago";
+
+"Title_Made_By" = "gawa ni opa334, évelyne, UI ni sourceloc";
+
+"Title_Supported_iOS_Versions" = "iOS 15.0 - 15.4.1, A12 - A15";
+
+"Update_Log_Hint_Scrollable" = "Maaring i-scroll ang log view";
+
+"Update_Status_Downloading" = "Nagdo-download ng update...";
+
+"Update_Status_Installing" = "Nag-iinstall ng update...";
+
+"Update_Status_Subtitle_Please_Wait" = "Mangyaring maghintay habang nagdo-download ng mga files";
+
+"Update_Status_Subtitle_Restart_Soon" = "Mag-rerestart ang device sa lalong madaling panahon";
+
+"Alert_Button_Uninstall" = "I-uninstall";
+
+"Alert_Tweak_Injection_Toggled_Body" = "Upang magamit ang mga pagbabago, kailangan mong i-reboot ang Userspace. Gusto mo bang mag-reboot ngayon?";
+
+"Popup_Change_Root_Password_Title" = "Baguhin ang Root Password";
+
+"Settings_Remove_Jailbreak_Alert_Body" = "Ang pag-aalis ng jailbreak ay magdudulot ng pagkawala ng lahat ng mga kaugnay na files, ngunit hindi maapektuhan ang mga regular na apps, files, at data. Sigurado ka ba sa iyong desisyon? Hindi ito maaaring ma-undo.";
+
+"Settings_Remove_Jailbreak_Alert_Title" = "Tanggalin ang Jailbreak";
+
+"Settings_Tweak_Injection_Toggled_Alert_Title" = "Kailangan ng Userspace reboot";
